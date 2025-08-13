@@ -22,7 +22,7 @@ IntelliJ IDEA Community Edition
  
 ## How to Run
 Clone this repository
-git clone https://github.com/foreverxhb/todo-app.git
+git clone [https://github.com/foreverxhb/todo-app.git](https://github.com/foreverxhb/ToDo-App.git)
 Open in IntelliJ IDEA CE 
 
 Compile and Run the App.java file
