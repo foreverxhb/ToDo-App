@@ -2,10 +2,6 @@
 A simple Java GUI-based To-Do application built using Java Swing.
 This app allows users to add, remove, and manage tasks in an intuitive interface.
 
- ## Objective
-The goal of this project is to create a functional and user-friendly To-Do list application using Java Swing for GUI components.
-It helps in practicing event handling, layout management, and basic file I/O in Java.
-
 ## Tools & Technologies
 Java 
 Java Swing (Java’s built-in GUI framework)
@@ -23,7 +19,6 @@ IntelliJ IDEA Community Edition
 
 - Add/Delete tasks using buttons.
 
-
  
 ## How to Run
 Clone this repository
@@ -36,4 +31,4 @@ Start adding your tasks!
 
 📷 Screenshots
 
-
+![img](https://github.com/foreverxhb/ToDo-App/blob/1e81cfc56f3a24fce30ce37a2a66816e1f9c6d41/Screenshot%202025-08-13%20193101.png)
