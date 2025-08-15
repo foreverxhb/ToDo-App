@@ -1,4 +1,3 @@
-
 A simple Java GUI-based To-Do application built using Java Swing.
 This app allows users to add, remove, and manage tasks in an intuitive interface.
 
